@@ -12,5 +12,3 @@
 <h2>Execução</h2>
 <p>docker run --rm iuryanadao/codeeducation</p>
 
-<h3>Baixar imagem</h3>
-<p>docker p</p>
